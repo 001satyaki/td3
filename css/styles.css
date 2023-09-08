@@ -1,0 +1,27 @@
+body{
+  background-color: #08062B;
+}
+h1{
+  color: #66BFBF;
+
+}
+
+#Heading{
+  background: #08062B;
+  text-align: center;
+  border-style: solid;
+
+  font-size: 4rem;
+  margin: 0 auto 0 auto;
+}
+
+.p1{
+  margin: 8% auto 5% auto;
+  color: white;
+  font-size: 3rem;
+}
+.p2{
+  font-size: 2rem;
+  text-align: right;
+  margin-right: 20px;
+}
